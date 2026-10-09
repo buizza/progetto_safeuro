@@ -22,8 +22,5 @@ Gli utenti possono consultare le offerte disponibili, mostrate in base alla posi
 ### 3. Ricerca dinamica
 Durante la visualizzazione delle offerte è possibile effettuare una ricerca dinamica, per filtrare i risultati e trovare solo ciò che interessa realmente.
 
-## Diagramma dei casi d'uso
-![Diagramma dei casi d'uso](docs/use-case-diagram.png)
-
 ## Autori
-- Nome Cognome
+- Andrea Buizza
